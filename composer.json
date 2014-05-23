@@ -1,12 +1,15 @@
 
 {
-    "name": "codeguy/arachnid",
+    "name": "dyron/arachnid",
     "type": "library",
     "description": "A crawler to find all unique internal pages on a given website",
     "keywords": ["crawl","spider","search","scrape"],
-    "homepage": "http://github.com/codeguy/arachnid",
+    "homepage": "http://github.com/dyron/arachnid",
     "license": "MIT",
     "authors": [
+        {
+            "name": "David Pommer"
+        },
         {
             "name": "Josh Lockhart",
             "homepage": "http://www.joshlockhart.com/"
